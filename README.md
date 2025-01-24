@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sankhadip Bag</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<imp align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/2fd63347-accd-4afd-874a-0767cb4cb906
-">
+<imp align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/2fd63347-accd-4afd-874a-0767cb4cb906">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heavenzeus07&label=Profile%20views&color=0e75b6&style=flat" alt="heavenzeus07" /> </p>
 
 - 🌱 I’m currently learning **Flutter**

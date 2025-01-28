@@ -28,4 +28,21 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heavenzeus07&show_icons=true&locale=en" alt="heavenzeus07" /></p>
 
+## 🗣 Languages
+<div>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/india-flag-round-circle-icon.png" width="30" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/germany-flag-round-circle-icon.png" width="30" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/usa-flag-round-circle-icon.png" width="30" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/spain-country-flag-round-icon.png" width="30" />
+</div>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankhadipderek_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankhadip-bag-72a717254) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=cgrundman&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

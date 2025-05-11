@@ -36,7 +36,6 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/india-flag-round-circle-icon.png" width="30" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/germany-flag-round-circle-icon.png" width="30" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/usa-flag-round-circle-icon.png" width="30" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/spain-country-flag-round-icon.png" width="30" />
 </div>
 
 

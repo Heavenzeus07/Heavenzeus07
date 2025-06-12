@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter & C#**
+- 🌱 I’m currently learning **Cloud Computing & Cyber Security**
 
-- 💬 Ask me about **react,node.js and bootstrap**
+- 💬 Ask me about **JavaScript, DBMS & Oops(JAVA)**
 
 - 📫 How to reach me **sankhadipbag007@gmail.com**
 
